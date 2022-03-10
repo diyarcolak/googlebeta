@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-image img{
+    width: 20%;
+    margin-top: 8%;
+    margin-left: 40%;
+}
+
+.main-div{
+    width: 100%;
+}
+
+.top-div {
+    background-color: rgb(196, 194, 194);
+    height: auto;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.top-div p {
+    text-align: center;
+}
+
+.top-div .searchbox-tool {
+width: 40%;
+height: 1.5rem;
+margin-left: 31%;
+}
+
+.top-div .deneme {
+    margin-left: 33%;
+    margin-top: 1%;
+}
+
+.btn-primary {
+    margin-top: 50px;
+    display: inline;
+}
+
+.buton {
+width: 25%;
+border: 1px solid black;
+border-radius: 3px;
+}
+
+.bot-div {
+width: 960px;
+height: 80px;
+margin-left: 480px;
+text-align: center;
+display: flex;
+
+}
+
+.bot-div .bot-1{
+padding-top: 1.5%;
+margin-top: 0.3%;
+text-align: center;
+width: 40%;
+background-color: #0ad6be;
+margin-right: 0.3%;
+}
+
+.bot-div .bot-2{
+padding-top: 0.5%;
+font-size: 14px;
+margin-top: 0.3%;
+background-color: #5ee0d1;
+text-align: center;
+width: 20%;
+}
+
+.bot-div .bot-3{
+margin-top: 0.3%;
+text-align: center;
+width: 40%;
+background-color: #1dd6ba;
+margin-left: 0.3%;
+}
